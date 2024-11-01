@@ -19,11 +19,11 @@ const Feedback = () => (
       >
         <div className="feedback-gradient" />
         <div>
-          <h4 className="font-bold sm:text-[32px] text-[26px] sm:leading-[40px] leading-[36px] text-white">Vignesh</h4>
-          <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22px] leading-[16px] text-white">Founder of MetaDroid</p>
+          <h4 className="font-bold sm:text-[32px] text-[26px] sm:leading-[40px] leading-[36px] text-white">Marius</h4>
+          <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22px] leading-[16px] text-white">Founder of Unstable Matter</p>
         </div>
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45px] leading-[39px] text-white">
-          “With the development of today's technology, metaverse is very useful for today's work, or can be called web 3.0. by using metaverse you can use it as anything”
+          "We believe in turning visionary ideas into digital realities. Today’s technology allows us to bring concepts to life like never before, bridging creativity and functionality. Our goal is to empower clients to see their ideas evolve in ways they once imagined impossible.”
         </p>
       </motion.div>
 

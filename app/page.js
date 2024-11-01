@@ -18,7 +18,9 @@ const Page = () => (
     </div>
     <World />
     <div className="relative">
+{/*
       <Insights />
+*/}
       <div className="gradient-04 z-0" />
       <Feedback />
     </div>
