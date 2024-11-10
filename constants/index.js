@@ -2,27 +2,27 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'Design',
+    title: 'User Experience',
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
-    title: 'Architecture',
+    title: 'Product Development',
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Development',
+    title: 'Web Mastering',
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Manage',
+    title: 'Digital Branding',
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
-    title: 'Support',
+    title: 'Virtual Assistance',
   },
 ];
 
@@ -35,15 +35,15 @@ export const startingFeatures = [
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'Simplistic',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'We create clean, straight forward designs that make it easy for visitors to navigate and engage with your app.',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'Progressive',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'We take a progressive approach, using the latest technologies to build apps that set new standards.',
   },
 ];
 
@@ -70,18 +70,13 @@ export const insights = [
 
 export const socials = [
   {
-    name: 'twitter',
-    url: '/twitter.svg',
-    link: 'https://twitter.com/VigneshGupta9',
+    name: 'github',
+    url: '/github.svg',
+    link: 'https://github.com/MariusWais/unstable-matter-droid',
   },
   {
     name: 'linkedin',
     url: '/linkedin.svg',
-    link: 'https://www.linkedin.com/in/vigneshgupta/',
-  },
-  {
-    name: 'instagram',
-    url: '/instagram.svg',
-    link: 'https://www.instagram.com/_viggi.g_/',
+    link: 'https://www.linkedin.com/company/unstable-matter/',
   },
 ];

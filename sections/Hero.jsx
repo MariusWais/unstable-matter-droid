@@ -18,7 +18,7 @@ const Hero = () => (
           variants={textVariant(1.2)}
           className="flex flex-row items-center justify-center"
         >
-          <h1 className={styles.heroHeading}> Where Ideas Take Shape</h1>
+          <h1 className={styles.heroHeading}> Creating digital worlds</h1>
         </motion.div>
       </div>
 

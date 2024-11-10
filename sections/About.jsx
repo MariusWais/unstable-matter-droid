@@ -25,7 +25,7 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-      <span className="font-extrabold">Unstable Matter</span> is revolutionizing the digital landscape, bringing your ideas to life with cutting-edge <span className="font-extrabold">web and app development</span>, sleek design and immersive branding. Our mission is to push the boundaries of digital design and development, creating solutions that feel as real as they are virtual. With <span className="font-extrabold">Unstable Matter</span>, you’re not just building a digital presence; you’re creating an experience. Let's <span className="font-extrabold">redefine</span> reality together by exploring the future of digital interactivity below.
+      <span className="font-extrabold">Unstable Matter</span> is revolutionizing the digital landscape, bringing your ideas to life with cutting-edge <span className="font-extrabold">web and mobile development</span>, sleek design and immersive branding. Our mission is to push the boundaries of digital design and development, creating solutions that feel as real as they are virtual. With <span className="font-extrabold">Unstable Matter</span>, you’re not just building a digital presence; you’re creating an experience. Let's <span className="font-extrabold">redefine</span> reality together by exploring the future of digital interactivity below.
       </motion.p>
 
       <motion.img
